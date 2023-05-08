@@ -144,11 +144,9 @@ header.sticky{
 }
 
 
-/* .services-content .box3{
-height: 4rem;
-width: 4rem;
-margin-left: 6rem;
-} */
+.services-content h2{
+color: #0bd815;
+}
 
 
 .box1 img{
