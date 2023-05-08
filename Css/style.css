@@ -189,18 +189,18 @@ margin-left: -5rem;
 
 
 		
-contact{
+#contact{
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	align-items: center;
 	gap: 3rem;
-	background-color: #0e1630;
+	background-color: #04060f;
 }
 
 .contact-text h2{
 	font-size: var(--h2-font);
 	color: #064406;
-	background-color: aqua;
+	
 }
 
 .contact-list{
