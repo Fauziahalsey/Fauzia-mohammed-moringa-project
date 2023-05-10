@@ -16,9 +16,9 @@ git pull origin master
 
 # My skills in software development
 
-#### html
-####css
-####github 
+html
+css
+github 
 
 # License
 
